@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter",
+		"GitGutter-Edge",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Obsidian Color Scheme",
+		"SublimeLinter"
+	]
+}

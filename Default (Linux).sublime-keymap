@@ -1,0 +1,8 @@
+[
+    {
+        "keys": ["ctrl+alt+space"], "command": "run_macro_file", "args": {"file": "Packages/User/convert_tabs_to_spaces.sublime-macro"}
+    },
+    {
+        "keys": ["ctrl+alt+i"], "command": "reindent"
+    }
+]
