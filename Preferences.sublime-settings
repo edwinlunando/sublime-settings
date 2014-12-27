@@ -1,18 +1,18 @@
 {
-	"color_scheme": "Packages/User/Zenburn (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Zenburn (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": true,
 	"find_selected_text": true,
 	"fold_buttons": false,
-	"font_face": "Inconsolata",
-	"font_size": 12,
+	"font_face": "Source Code Pro",
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"rulers":
 	[
